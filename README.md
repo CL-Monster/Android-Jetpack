@@ -11,6 +11,9 @@ Hilt 在热门 DI 库 Dagger 的基础上构建而成，因而能够受益于 Da
 
 依赖项注入对于创建可扩展且可测试的 Android 应用而言是一项适合的技术。
 
+codeLab : https://developer.android.com/codelabs/android-hilt#0
+
+
 
 
 
